@@ -81,4 +81,5 @@ for i, site_file in enumerate(sites_data_name):
     ax.set_xticklabels(ax.get_xticklabels(), rotation=45)
     plt.grid(False)
 plt.tight_layout()
+fig.savefig("comparison_plot.png", dpi=600, bbox_inches='tight')
 plt.show()
