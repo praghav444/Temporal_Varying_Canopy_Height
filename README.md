@@ -9,6 +9,8 @@ Modeled canopy heights were compared against field-measured canopy heights at mu
 
 # References 
 
+Pennypacker, S., & Baldocchi, D. (2016). Seeing the fields and forests: Application of surface-layer theory and flux-tower data to calculating vegetation canopy height. Boundary-layer meteorology, 158, 165-182.
+
 Maes, W. H., Gentine, P., Verhoest, N. E., & Miralles, D. G. (2019). Potential evaporation at eddy-covariance sites across the globe. Hydrology and Earth System Sciences, 23(2), 925-948.
 
-Pennypacker, S., & Baldocchi, D. (2016). Seeing the fields and forests: Application of surface-layer theory and flux-tower data to calculating vegetation canopy height. Boundary-layer meteorology, 158, 165-182.
+
