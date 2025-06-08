@@ -14,9 +14,9 @@ from scipy.stats import spearmanr
 from meteo_utils import *
 #---------------------------------------------------------------------------------------
 base_dir = r"Data"
-sites_data_name = ['Site1_data', 'Site2_data', 'Site3_data', 'Wheat_Canola_SW']
-ht_info_files = ['Wheat_CT_site_1_height', 'Wheat_NT_site_2_height', 'Wheat_CT_site_3_height', 'Can4_Heights']
-fig, axs = plt.subplots(len(sites_data_name), 1, figsize=(16, 3.5 * len(sites_data_name)))
+sites_data_name = ['Site1_data', 'Site2_data']
+ht_info_files = ['Wheat_CT_site_1_height', 'Wheat_NT_site_2_height']
+fig, axs = plt.subplots(len(sites_data_name), 1, figsize=(16, 2.5 * len(sites_data_name)))
 fig.suptitle("Wheat Sites", fontsize=16)
 plt.subplots_adjust(hspace=0.4)
 subplot_labels = ['(a)', '(b)', '(c)', '(d)', '(e)', '(f)', '(g)', '(h)', '(i)'] 
